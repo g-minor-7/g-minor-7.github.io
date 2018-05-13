@@ -1,0 +1,85 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+html {
+    height: 100%;
+  }
+  body {
+    background-color: #b2b7bb;
+     width: 800px;
+     height: 100%;
+    background-image: url(http://1.bp.blogspot.com/-QV9DoZbqsGo/VDSuaz20yhI/AAAAAAAAcfM/p9LBRBxEgjs/s1600/burkegilman.tiff);
+    background-repeat: round;
+    background-size: 1500px
+  }
+
+  header {
+      background-color: #008ace;
+      padding-left: 5px;
+      font-size: 34;
+      display: block;
+      text-align: center;
+      border: 10px solid;
+      border-radius: 20px;
+      
+  }
+  nav {
+      float: left;
+      width: 100%;
+      color: 
+  }
+  nav ul li {
+      padding: ;
+      float: left;
+      border-bottom: ;
+      list-style-type: none;
+      
+      
+  }
+  nav li {
+      float: left;
+      background-color: rgb(140, 140, 211);
+     border-radius: 20px;
+     text-align: center;
+      
+     
+
+  }
+  nav li a {
+      display: block;
+      height: 25px;
+      padding: 12px 18px 8px 18px;
+      vertical-align: middle;
+     
+  }
+  a {
+      color: ; 
+  }
+  section {
+      width: 73%;
+      display: inline-block;
+      float: left;
+  }
+  aside {
+      width: 17%;
+      display: inline-block;
+      background-color:;
+      padding:;
+      min-height: 100%;
+  }
+  aside ul {
+      list-style-type: none;
+  }
+
+  img {
+    width: 1000px;
+    }
+
+  footer {
+      width: 790px;
+      background-color:;
+      color:;
+      clear: both;
+      display: block;
+      

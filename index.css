@@ -1,0 +1,80 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+html {
+    height: 100%;
+  }
+  body {
+     width: 800px;
+     height: 100%;
+     background-image: url("https://c1.staticflickr.com/6/5232/5855306176_6c574d58a3_b.jpg");
+  }
+
+  header {
+      background-color: #75D3E8;
+      padding-left: 10px;
+      font-size: 30;
+      display: block;
+      border: 30px solid #000000;
+      margin-bottom: 20px;
+      text-align: center;
+  }
+  img {
+      width: 500px;
+      height: 50%;
+      ;
+  }
+  nav {
+      background-color: rgb(187, 187, 187);
+      font-size: 18;
+      text-align: left;
+      width: 125px;
+      height: 600px;
+      display: inline-block;
+      font-size: 18px
+  }
+  nav ul {
+      padding: ;
+      float: left;
+      border-bottom: 10px;
+      list-style-type: none;
+  }
+  nav li a {
+    display: block;
+    height: 25px;
+    padding: 12px 18px 8px 18px;
+    vertical-align: middle;
+  }
+  a {
+    color: grey;
+    font-display:;
+  }
+  section {
+    width: 73%;
+    display: inline-block;
+    float: left;
+  }
+  nav li {
+      float: left;
+  }
+  aside {
+    width: 17%;
+    display: inline-block;
+    background-color:;
+    padding: 12px 18px 8px 18px;
+    min-height: 100%;
+  }
+  aside ul {
+    list-style-type: none;
+  }
+  footer {
+    background-color: #75D3E8;
+    padding-left: 10px;
+    font-size: 18;
+    display: block;
+    border: 10px solid #000000;
+    margin-bottom: 20px;
+    text-align: left;
+  }
+}
